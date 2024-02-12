@@ -1,0 +1,3 @@
+# files that we wil not pushing to github
+# usually files that contains access keys or credentials
+# example: accesskeys.py
